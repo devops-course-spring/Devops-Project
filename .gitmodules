@@ -1,0 +1,3 @@
+[submodule "lab7/lab7-ci"]
+	path = lab7/lab7-ci
+	url = https://gitlab.com/devops-course-spring/lab7-ci
